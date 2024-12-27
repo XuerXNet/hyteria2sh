@@ -113,7 +113,7 @@ auth:
 masquerade:
   type: proxy
   proxy:
-    url: https://pan.mrly.cc/
+    url: https://www.runoob.com/
     rewriteHost: true
 EOF
 
